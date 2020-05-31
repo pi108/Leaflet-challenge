@@ -16,19 +16,14 @@ https://github.com/fraxen/tectonicplates
 ### Files and Folder Structure:
 This repository contains the following:
 1.	An HTML file called "index" which is the file used for the webpage.
-<br>
 2.  A folder called "data" that contains a file called PB2002_plates. This file contains the data related to the fault lines. 
-<br>
 3.  A folder called images. This folder contains images of the different views of the final webpage.
-<br>
 4.  A folder called "static". 
 This folder contains the following subfolders:
 * - css: This folder contains a file related to styling / formatting.
 * - Js: This folder contains the main javascript file called “app” that is used in the index.html file.
 <br>
 <br>
-<br>
-
 ### Webpage Details:
 We were asked to build a webpage that to help visualize the earthquake data provided by the USGS. 
 <br>
