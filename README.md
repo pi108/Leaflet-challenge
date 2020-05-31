@@ -51,7 +51,10 @@ They are as follows:
 This plots the fault lines as a red lien on whichever basemap is selected by the user.
 <br>
 2. Earthquakes:
-This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. We assigned different colors to the circles to represent the different earthquake magnitudes as follows:
+This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. 
+<br>
+<br>
+We assigned different colors to the circles to represent the different earthquake magnitudes as follows:
 <br>
 1. Magnitude 0-1: Sky-Blue
 <br>
