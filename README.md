@@ -14,7 +14,6 @@ https://github.com/fraxen/tectonicplates
 <br>
 <br>
 ### Files and Folder Structure:
-<br>
 This repository contains the following:
 <br>
 1.	An HTML file called "index" which is the file used for the webpage.
@@ -25,8 +24,8 @@ This repository contains the following:
 <br>
 4.  A folder called "static". 
 This folder contains the following subfolders:
-* css: This folder contains a file related to styling / formatting.
-* Js: This folder contains the main javascript file called “app” that is used in the index.html file.
+*- css: This folder contains a file related to styling / formatting.
+*- Js: This folder contains the main javascript file called “app” that is used in the index.html file.
 <br>
 <br>
 <br>
