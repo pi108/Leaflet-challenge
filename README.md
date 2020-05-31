@@ -50,7 +50,6 @@ This plots the fault lines as a red lien on whichever basemap is selected by the
 This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. 
 <br>
 The circles have also been color coded to reflect 6 different ranges of the earthquake magnitudes as follows:
-<br>
 1. Magnitude 0-1: Sky-Blue
 <br>
 2. Magnitude 1-2: Light-Green
@@ -63,15 +62,16 @@ The circles have also been color coded to reflect 6 different ranges of the eart
 <br>
 6. Magnitude >5: Red
 <br>
+<br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
 The top section of the controls box allows a user to select any of these 5 basemaps by clicking on the radio button tright next to the desired basemap.
 <br>
 The bottom section of the controls box allows a user to select either the "Fault Lines" option, or the "earthquakes" option, or even a combination of both the options.
-
+<br>
+<br>
 
 ### Webpage Images:
-
 This is an image of the default map when the webpage is launched. 
 The Basemap is a Satellite View of the Earth.
 On this Basemap we have plotted the fault lines (represented by the red line) and the magnitudes of the earthquakes (represented by the different colored circles):
@@ -100,3 +100,5 @@ If the user selects the Baasemap called "Outdoors" (and leaves the fault lines a
 <br>
 <br>
 ![](images/05_Outdoors.PNG)
+
+
