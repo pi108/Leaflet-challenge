@@ -43,7 +43,10 @@ This basemap is like an "evening/night" view of Earth.
 5. Outdoors:
 This basemap is like a "day-time" view of Earth. 
 <br>
-We have added two informational layers onto the basemap. These layers are called the "overlay layers. They are as follows:
+We have added two informational layers onto the basemap. These layers are called the "overlay layers. 
+<br>
+They are as follows:
+<br>
 1. Fault Lines:
 This plots the fault lines as a red lien on whichever basemap is selected by the user.
 <br>
