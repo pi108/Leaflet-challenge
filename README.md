@@ -72,9 +72,9 @@ We assigned different colors to the circles to represent the different earthquak
 <br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
-The top section of the controls box allows a user to select any of these 5 basemaps by clicking on the radio button tright next to the desired basemap.
+The top section of the controls box allows a user to select any of these 5 basemaps by clicking on the radio button right next to the desired basemap.
 <br>
-The bottom section of the controls box allows a user to select either the "Fault Lines" option, or the "earthquakes" option, or even a combination of both the options.
+The bottom section of the controls box allows a user to select either the "Fault Lines" option, or the "Earthquakes" option, or even a combination of both the options.
 <br>
 <br>
 
