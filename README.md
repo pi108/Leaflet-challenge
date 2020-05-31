@@ -68,6 +68,8 @@ We assigned different colors to the circles to represent the different earthquak
 <br>
 6. Magnitude >5: Red
 <br>
+These colors are shown in a legend box at the bottom right corner of the webpage.
+<br>
 <br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
