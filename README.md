@@ -50,10 +50,15 @@ This plots the fault lines as a red lien on whichever basemap is selected by the
 This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. The circles have also been color coded to reflect 6 different ranges of the earthquake magnitudes as follows:
 <br>
 1. Magnitude 0-1: Sky-Blue
+<br>
 2. Magnitude 1-2: Light-Green
+<br>
 3. Magnitude 2-3: Yellow
+<br>
 4. Magnitude 3-4: Gold
+<br>
 5. Magnitude 4-5: Dark-Orange
+<br>
 6. Magnitude >5: Red
 <br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
