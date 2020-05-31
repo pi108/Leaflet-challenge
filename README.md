@@ -47,13 +47,13 @@ We have added two informational layers onto the basemap. These layers are called
 1. Fault Lines:
 This plots the fault lines as a red lien on whichever basemap is selected by the user.
 2. Earthquakes:
-This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. The circles have also been color coded to reflect different ranges of the earthquake magnitudes as follows:
-* - Magnitude 0-1: Sky-Blue
-* - Magnitude 1-2: Light-Green
-* - Magnitude 2-3: Yellow
-* - Magnitude 3-4: Gold
-* - Magnitude 4-5: Dark-Orange
-* - Magnitude >5: Red
+This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. The circles have also been color coded to reflect 6 different ranges of the earthquake magnitudes as follows:
+1. Magnitude 0-1: Sky-Blue
+2. Magnitude 1-2: Light-Green
+3. Magnitude 2-3: Yellow
+4. Magnitude 3-4: Gold
+5. Magnitude 4-5: Dark-Orange
+6. Magnitude >5: Red
 <br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
