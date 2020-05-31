@@ -44,8 +44,10 @@ This basemap is like an "evening/night" view of Earth.
 This basemap is like a "day-time" view of Earth. 
 <br>
 We have added two informational layers onto the basemap. These layers are called the "overlay layers. They are as follows:
+<br>
 1. Fault Lines:
 This plots the fault lines as a red lien on whichever basemap is selected by the user.
+<br>
 2. Earthquakes:
 This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. We assigned different colors to the circles to represent the different earthquake magnitudes as follows:
 <br>
