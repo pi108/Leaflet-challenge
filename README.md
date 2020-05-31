@@ -19,9 +19,13 @@ https://github.com/fraxen/tectonicplates
 ### Files and Folder Structure:
 <br>
 This repository contains the following:
+<br>
 1.	An HTML file called "index" which is the file used for the webpage.
+<br>
 2.  A folder called "data" that contains a file called PB2002_plates. This file contains the data related to the fault lines. 
+<br>
 3.  A folder called images. This folder contains images of the different views of the final webpage.
+<br>
 4.  A folder called "static". 
 This folder contains the following subfolders:
 * css: This folder contains a file related to styling / formatting.
@@ -31,29 +35,34 @@ This folder contains the following subfolders:
 <br>
 
 ### Webpage Details:
-We were asked to build a webpage that to help visualize their earthquake data. 
+We were asked to build a webpage that to help visualize the earthquake data provided by the USGS. 
 <br>
-We used the leaflet javascript library in combination with HTML and CSS to build the map on the webpage.
+We used the leaflet javascript library in combination with HTML and CSS to build the webpage.
 <br>
-We selected 5 "basemap" layouts as follows:
+We selected 5 "basemap" layouts (provided by MapBox) as follows:
 1. Satellite:
 This basemap is a Satellite view of Earth.
 2. Satellite-Streets:
-This basemap is a Satellite view of Earth along with street level information/
+This basemap is a Satellite view of Earth along with street level information.
 3. Light:
 This basemap is a "gray-scale" view of Earth.
 4. Dark:
-Thsi basemap is like an "evening/night" view of Earth. 
+This basemap is like an "evening/night" view of Earth. 
 5. Outdoors:
 This basemap is like a "day-time" view of Earth. 
 <br>
 We have added two informational layers onto the basemap. These layers are called the "overlay layers. They are as follows:
 1. Fault Lines:
-
+This plots the fault lines as a red lien on whichever basemap is selected by the user.
 2. Earthquakes:
-
-
-
+This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. The circles have also been color coded to reflect different ranges of the earthquake magnitudes as follows:
+* Magnitude 0-1: Sky-Blue
+* Magnitude 1-2: Light-Green
+* Magnitude 2-3: Yellow
+* Magnitude 3-4: Gold
+* Magnitude 4-5: Dark-Orange
+* Magnitude >5: Red
+<br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
 The top section of the controls box allows a user to select any of these 5 basemaps by clicking on the radio button tright next to the desired basemap.
