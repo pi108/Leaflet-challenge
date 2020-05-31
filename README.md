@@ -12,8 +12,9 @@ The United States Geological Survey, or USGS is responsible for providing scient
 The data related to fault lines was obtained from the following website:
 <br>
 https://github.com/fraxen/tectonicplates
-
-
+<br>
+<br>
+<br>
 ### Files and Folder Structure:
 <br>
 This repository contains the following:
@@ -24,7 +25,9 @@ This repository contains the following:
 This folder contains the following subfolders:
 * css: This folder contains a file related to styling / formatting.
 * Js: This folder contains the main javascript file called “app” that is used in the index.html file.
-
+<br>
+<br>
+<br>
 ### Webpage Details:
 We were asked to build a webpage that to help visualize their earthquake data. 
 <br>
