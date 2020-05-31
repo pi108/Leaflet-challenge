@@ -15,6 +15,7 @@ https://github.com/fraxen/tectonicplates
 <br>
 <br>
 <br>
+
 ### Files and Folder Structure:
 <br>
 This repository contains the following:
@@ -28,6 +29,7 @@ This folder contains the following subfolders:
 <br>
 <br>
 <br>
+
 ### Webpage Details:
 We were asked to build a webpage that to help visualize their earthquake data. 
 <br>
