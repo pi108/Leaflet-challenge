@@ -1,7 +1,6 @@
 # Leaflet Challenge: 
 
 ## This repository contains the folders and files regarding a Leaflet exercise that was performed with data related to earthquakes and fault lines. 
-<br>
 The data related to earthquakes was obtained from the following website hosted by the United States Geological Survey:
 <br>
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
@@ -14,8 +13,6 @@ The data related to fault lines was obtained from the following website:
 https://github.com/fraxen/tectonicplates
 <br>
 <br>
-<br>
-
 ### Files and Folder Structure:
 <br>
 This repository contains the following:
