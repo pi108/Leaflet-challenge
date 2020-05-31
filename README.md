@@ -111,7 +111,7 @@ If the user selects the Baasemap called "Outdoors" (and leaves the fault lines a
 
 ## Additional Information: 
 ### Major Earthquakes in History:
-The following website lists the top 10 deadliest earthquakes in history:
+The following website lists the major earthquakes in history:
 <br>
 https://www.britannica.com/science/earthquake-geology/Major-historical-earthquakes
 
@@ -119,7 +119,7 @@ https://www.britannica.com/science/earthquake-geology/Major-historical-earthquak
 
 ## Additional Information: 
 ### Important Earthquake Safety Precautions:
-The following website contains useful information regarding the steps that can be taken to be prepared to survive and recover from an  earthquake.
+The following website contains useful information on how to be prepared to survive and recover from an  earthquake.
 <br>
 https://www.earthquakeauthority.com/California-Earthquake-Risk/Personal-Preparedness/Seven-Steps-to-Earthquake-Safety
 
