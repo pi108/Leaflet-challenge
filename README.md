@@ -1,20 +1,20 @@
 # Leaflet Challenge: 
 
-## This repository contains the folders and files regarding a D3 exercise that was performed with data from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System, conducted for the 50 states and one Federal District (Washington D.C.) of the United States of America. 
+## This repository contains the folders and files regarding a Leaflet exercise that was performed with data related to earthquakes and fault lines. 
+The data related to earthquakes was obtained from the following website:
+XXXXX
+The data related to fault lines was obtained from the following website:
+XXXXX
 
 ### Files and Folder Structure:
 This repository contains the following:
 1.	An HTML file called "index" which is the file used for the webpage.
-2.	A folder called "assets". 
+2.  A folder called "data" that contains a file called PB2002_plates. This file contains the data related to the fault lines. 
+3.  A folder called images. This folder contains images of the different views of the final webpage.
+4.  A folder called "static". 
 This folder contains the following subfolders:
-* css: This folder contains:
-*- 2 files related to styling / formatting.
-* data: This folder contains:
-*- A csv file called “data” that was provided to us – it has the data that we used for our analysis. 
-*- A jupyter notebook file that we created to calculate correlations between certain combinations of data. 
-*- The correlation graphs generated from the jupyter notebook file.
-* Js: This folder contains”
-*- The main javascript file called “app” that is used in the index.html file.
+* css: This folder contains a file related to styling / formatting.
+* Js: This folder contains the main javascript file called “app” that is used in the index.html file.
 
 ### Dataset Details:
 The dataset provided to us in the csv file contained the following columns:
