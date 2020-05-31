@@ -13,6 +13,7 @@ The data related to fault lines was obtained from the following website:
 https://github.com/fraxen/tectonicplates
 <br>
 <br>
+
 ### Files and Folder Structure:
 This repository contains the following:
 1.	An HTML file called "index" which is the file used for the webpage.
@@ -24,6 +25,7 @@ This folder contains the following subfolders:
 * - Js: This folder contains the main javascript file called “app” that is used in the index.html file.
 <br>
 <br>
+
 ### Webpage Details:
 We were asked to build a webpage that to help visualize the earthquake data provided by the USGS. 
 <br>
@@ -46,12 +48,12 @@ We have added two informational layers onto the basemap. These layers are called
 This plots the fault lines as a red lien on whichever basemap is selected by the user.
 2. Earthquakes:
 This plots the earthquakes aa different colored circles on whichever basemap is selected by the user. The larger the size of the circle, the greater the magnitude of the earthquake. The circles have also been color coded to reflect different ranges of the earthquake magnitudes as follows:
-* Magnitude 0-1: Sky-Blue
-* Magnitude 1-2: Light-Green
-* Magnitude 2-3: Yellow
-* Magnitude 3-4: Gold
-* Magnitude 4-5: Dark-Orange
-* Magnitude >5: Red
+* - Magnitude 0-1: Sky-Blue
+* - Magnitude 1-2: Light-Green
+* - Magnitude 2-3: Yellow
+* - Magnitude 3-4: Gold
+* - Magnitude 4-5: Dark-Orange
+* - Magnitude >5: Red
 <br>
 At the top right hand corner of the webpage there is a rectangular box known as the "controls box". 
 <br>
